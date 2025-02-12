@@ -10,5 +10,4 @@
 # Special Thanks to Prof. Carter Zankey
 
 # --------------------------------
-
-![Alt text](file:///home/dkcode/Downloads/CS50R.png)
+![CS50R](https://github.com/user-attachments/assets/9aaf1d9d-d6af-4de2-bf22-2146f78d293e)
