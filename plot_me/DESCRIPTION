@@ -1,0 +1,16 @@
+Package: plotme
+Title: Plot Me
+Description: plotme is designed to plot "Open", "High", and "Low" stock prices 
+  from stock datasets. The package takes a `.csv` file as input, processes the 
+  data, and outputs an insightful and interactive plot to visualize stock price 
+  movements over time. This helps users easily analyze trends and patterns in 
+  stock data.
+Version: 1.0
+Authors@R: person("Dk", "Code", email = "dushankosala2002328@gmail.com", 
+  role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Video: https://youtu.be/E5abPIlvpLM
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+ 
